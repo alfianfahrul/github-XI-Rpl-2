@@ -1,0 +1,6 @@
+nama= Alfian Fahrull Rizki
+kelas= XI Rpl 2
+alamat = kavling rancakasiat rt04 rw04 no25
+umur = 17
+sekolah = SMK ASSALAM BANDUNG
+note = saya sedang belaqjar awalan github
